@@ -12,4 +12,4 @@ Working with LLMs and reading PDFs using Python.
 3. Add your API key there:
 
 [default]
-api_key = "YOUR_KEY_HERE
+api_key = "YOUR_KEY_HERE"
