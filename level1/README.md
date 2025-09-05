@@ -12,6 +12,9 @@ Working with LLMs and reading PDFs using Python.
 
 api_key = "YOUR_KEY_HERE"
 ---
+## Project Structure
+
+`
 Agentic-challenge/
 ├── level1/
 │   ├── README.md
@@ -23,5 +26,5 @@ Agentic-challenge/
 │   └── .streamlit/
 │       └── secrets.toml
 └── README.md
-
+`
 ---
