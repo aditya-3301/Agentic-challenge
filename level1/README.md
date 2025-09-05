@@ -9,7 +9,6 @@ Working with LLMs and reading PDFs using Python.
 ### To run locally:
 1. Create a folder `.streamlit/`
 2. Inside it, create a file `secrets.toml`
-3. Add your API key there:
+3. Add your API key there exactly as this:
 
-[default]
 api_key = "YOUR_KEY_HERE"
