@@ -7,7 +7,7 @@ Working with LLMs and reading PDFs using Python.
 ## Tasks 
 
 ### 1. Call an LLM API
-Make a basic prompt-response call using any LLM (e.g., ask a general knowledge question).
+Makes a basic prompt-response call using Gemini.
 
 ### 2. Read a PDF
 Use `pypdf` to load and extract text from a PDF file.
