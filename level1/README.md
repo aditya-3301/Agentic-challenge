@@ -3,10 +3,10 @@
 Working with LLMs and reading PDFs using Python.
 - API accessed: Google Gemini
 
-### Procedure:
+## Procedure:
 
 
-# To run locally:
+### To run locally:
 1. Create a folder `.streamlit/`
 2. Inside it, create a file `secrets.toml`
 3. Add your API key there:
