@@ -1,2 +1,2 @@
 # Agentic-challenge
-*Repo for Agentic-AI Club (Lynk) Task-2*
+*Repo for Agentic-AI Club (Lynq) Task-2*
