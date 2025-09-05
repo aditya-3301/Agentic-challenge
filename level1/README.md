@@ -3,17 +3,13 @@
 Working with LLMs and reading PDFs using Python.
 - API accessed: Google Gemini
 
+### Procedure:
 
-## Tasks 
 
-### 1. Call an LLM API
-Makes a basic prompt-response call using Gemini.
+# To run locally:
+1. Create a folder `.streamlit/`
+2. Inside it, create a file `secrets.toml`
+3. Add your API key there:
 
-### 2. Read a PDF
-Use `pypdf` to load and extract text from a PDF file.
-
-```python
-from pypdf import PdfReader
-reader = PdfReader("file.pdf")
-print(reader.pages[0].extract_text())
-
+[default]
+api_key = "YOUR_KEY_HERE
