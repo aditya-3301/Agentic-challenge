@@ -17,14 +17,14 @@ api_key = "YOUR_KEY_HERE"
 `
 Agentic-challenge/
 ├── level1/
-│   ├── README.md
-│   └── level1_app.py
-│   └── .streamlit/
-│       └── secrets.toml
+│ ├── README.md
+│ ├── level1_app.py
+│ └── .streamlit/
+│ └── secrets.toml
 ├── level2/
-│   └── README.md
-│   └── .streamlit/
-│       └── secrets.toml
+│ ├── README.md
+│ └── .streamlit/
+│ └── secrets.toml
 └── README.md
 `
 ---
