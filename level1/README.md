@@ -10,7 +10,7 @@ Working with LLMs and reading PDFs using Python.
 2. Inside it, create a file `secrets.toml`
 3. Add your API key there exactly as this:
 
-api_key = "YOUR_KEY_HERE"
+## api_key = "YOUR_KEY_HERE"
 ---
 ## Project Structure
 
