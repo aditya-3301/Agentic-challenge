@@ -20,11 +20,11 @@ Agentic-challenge/
 │ ├── README.md
 │ ├── level1_app.py
 │ └── .streamlit/
-│ └── secrets.toml
+│     └── secrets.toml
 ├── level2/
 │ ├── README.md
 │ └── .streamlit/
-│ └── secrets.toml
+│     └── secrets.toml
 └── README.md
 ```
 ---
