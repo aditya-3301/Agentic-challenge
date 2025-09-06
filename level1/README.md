@@ -1,6 +1,4 @@
 # Level 1
-
-Working with LLMs and reading PDFs using Python.
 - API accessed: Google Gemini
 
 ## Procedure:
