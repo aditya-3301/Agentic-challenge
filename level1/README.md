@@ -8,9 +8,10 @@
 2. Inside it, create a file `secrets.toml`
 3. Add your API key there exactly as this:
    __api_key = "YOUR_KEY_HERE"__
-4. Make sure the current directory in terminal is level1
-5. Type "streamlit run llm_call" in terminal to open streamlit app
-6. In general, type "streamlit run _filename.py_" to run it .
+4. Open VSCode Terminal
+5. Make sure the current directory in terminal is level1
+6. Type "streamlit run llm_call" in terminal to open streamlit app
+7. In general, type "streamlit run _filename.py_" to run it .
 ---
 ## Project Structure
 
