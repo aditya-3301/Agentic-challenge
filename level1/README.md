@@ -18,7 +18,8 @@ Working with LLMs and reading PDFs using Python.
 Agentic-challenge/
 ├── level1/
 │ ├── README.md
-│ ├── level1_app.py
+│ ├── llm_call.py
+│ ├── pdf_reader.py
 │ └── .streamlit/
 │     └── secrets.toml
 ├── level2/
