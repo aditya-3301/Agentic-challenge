@@ -1,5 +1,7 @@
 # Level 1
 - API accessed: Google Gemini
+- Make sure all the libraries imported are installed
+- (Streamlit,google.generativeai,pypdf)
 
 ## Procedure:
 
