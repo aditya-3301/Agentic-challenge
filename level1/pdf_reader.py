@@ -61,7 +61,7 @@ if question:
     with st.spinner("Thinking..."):
         try:
             chat_response = model.generate_content(
-                f"Answer the questions based on this PDF:\n\n{question}\n\nPDF Content:\n{text}"
+                f"Answer the questions ONLY based on this PDF:\n\n{question}\n\nPDF Content:\n{text}"
             )
             st.sidebar.write(chat_response.text)
         except Exception as e:
