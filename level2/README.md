@@ -18,10 +18,10 @@ A simple MCP tool that responds to weather-related queries.
 3. Add your API key there exactly as this:
 ```__api_key = "YOUR_KEY_HERE"__```
 ```__weather_api_key = "YOUR_KEY_HERE"__```
-5. Open VSCode Terminal
-6. Make sure the current directory in terminal is level2
-7.Open command prompt and run the server using: fastmcp run weather_mcp.py
-8.Open another command prompt with level2 directory run it using: python run weather-mcp.py
+4. Open VSCode Terminal
+5. Make sure the current directory in terminal is level2
+6.Open command prompt and run the server using: fastmcp run weather_mcp.py
+7.Open another command prompt with level2 directory run it using: python run weather-mcp.py
 
 ---
 ## Project Structure
