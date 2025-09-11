@@ -36,10 +36,18 @@ A simple MCP tool that responds to weather-related queries.
 ## Project Structure
 
 ```
+Agentic-challenge/
+├── level1/
+│ ├── README.md
+│ ├── llm_call.py
+│ ├── pdf_reader.py
+│ └── .streamlit/
+│     └── secrets.toml
 ├── level2/
 │ ├── README.md
 │ └── .streamlit/
 │     └── secrets.toml
-
+└── README.md
 ```
+---
 ---
