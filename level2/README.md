@@ -12,12 +12,20 @@ A simple MCP tool that responds to weather-related queries.
 
 ## Procedure:
 
-### To run locally:
-1. Create a **folder** `.streamlit/` in the same level as the python file of level 2.
-2. Inside it, create a file `secrets.toml`
-3. Add your API key there exactly as this:
-```__api_key = "YOUR_KEY_HERE"__```
-```__weather_api_key = "YOUR_KEY_HERE"__```
+## 🚀 Procedure
+
+### To Run Locally:
+
+1. Create a **folder** named `.streamlit/` in the same directory as the Level 2 Python files.
+
+2. Inside it, create a file called `secrets.toml`.
+
+3. Add your API keys in the following format:
+
+   ```toml
+   api_key = "YOUR_KEY_HERE"
+   weather_api_key = "YOUR_KEY_HERE"
+
 4. Open VSCode Terminal
 5. Make sure the current directory in terminal is level2
 6.Open command prompt and run the server using: fastmcp run weather_mcp.py
