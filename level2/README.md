@@ -16,7 +16,7 @@ A simple MCP tool that responds to weather-related queries.
 
 ### To Run Locally:
 
-1. Create a **folder** named `.streamlit/` in the same directory as the Level 2 Python files.
+1. Create a **folder** named `.streamlit/` in the same directory as the Level 2 Python files(i.e. in the level2 folder).
 
 2. Inside it, create a file called `secrets.toml`.
 
