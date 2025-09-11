@@ -40,6 +40,6 @@ A simple MCP tool that responds to weather-related queries.
 │ ├── README.md
 │ └── .streamlit/
 │     └── secrets.toml
-└── README.md
+
 ```
 ---
